@@ -1,4 +1,6 @@
-public class Node {
+package Examples;
+
+class Node {
     Node next = null;
     int data;
 
@@ -30,5 +32,16 @@ public class Node {
             n = n.next;
         }
         return head;
+    }
+
+    public static void main(String[] args) {
+        Node n = new Node(23);
+        n.appendToTail(67);
+        n.appendToTail(76);
+        n.appendToTail(43);
+//        n.deleteNode()
+        System.out.println(n);
+//        System.out.println(n.appendToTail(56));
+
     }
 }
