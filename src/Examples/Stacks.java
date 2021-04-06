@@ -22,10 +22,22 @@ public class Stacks<T> {
         return item;
     }
 
+
     public void push(T item){
         StackNode<T> t = new StackNode<T>(item);
         t.next = top;
         top = t;
+    }
+
+    //Returns the top item on stack
+    public T peek(){
+        if (top == null) throw new EmptyStackException();
+        return top.data;
+    }
+
+    //Checks if stack is empty
+    public boolean isEmpty(){
+        return top == null;
     }
 
 
