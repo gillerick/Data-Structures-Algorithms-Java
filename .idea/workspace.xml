@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6670c1a7-d3cc-46d5-ad8b-628a8a382790" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Examples/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures and Algorithms(Java)/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Merge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examples/Stacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Stacks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +31,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1mhEjlKIpx3HGaMvOEDl5TJWZDy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -81,7 +79,7 @@
       <workItem from="1609938882962" duration="1562000" />
       <workItem from="1613866404592" duration="444000" />
       <workItem from="1617613746164" duration="1032000" />
-      <workItem from="1617729578342" duration="3462000" />
+      <workItem from="1617729578342" duration="4343000" />
     </task>
     <servers />
   </component>
@@ -106,26 +104,26 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="466" y="263" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1617731000811" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1617732326007">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1617733907983">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1317" height="182" key="GridCell.Tab.0.bottom/0.0.1360.738/-1920.-104.1920.1050@0.0.1360.738" timestamp="1613866850224" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1617732326007" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1617732326007">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1617733907983" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1617733907983">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1317" height="182" key="GridCell.Tab.0.center/0.0.1360.738/-1920.-104.1920.1050@0.0.1360.738" timestamp="1613866850224" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1617732326007" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1617732326006">
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1617733907983" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1617733907983">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1317" height="182" key="GridCell.Tab.0.left/0.0.1360.738/-1920.-104.1920.1050@0.0.1360.738" timestamp="1613866850224" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1617732326006" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1617732326007">
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1617733907983" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1617733907983">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1317" height="182" key="GridCell.Tab.0.right/0.0.1360.738/-1920.-104.1920.1050@0.0.1360.738" timestamp="1613866850224" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1617732326007" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1617733907983" />
     <state x="333" y="48" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1617732236493">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

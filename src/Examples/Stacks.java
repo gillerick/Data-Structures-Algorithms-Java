@@ -40,5 +40,8 @@ public class Stacks<T> {
         return top == null;
     }
 
+    public static void main(String[] args) {
+        Stacks<String> s = new Stacks<String>();
+    }
 
 }
