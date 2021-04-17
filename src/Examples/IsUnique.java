@@ -1,5 +1,7 @@
 package Examples;
 //Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures
+//The time complexity is )(n) where n is the length of the string
+//The space complexity is O(1)
 
 
 class IsUnique {
